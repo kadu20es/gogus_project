@@ -1,0 +1,31 @@
+package br.com.plataforma.gogus.model;
+
+
+public enum Genero {
+    ADMINISTRACAO,
+    ARTE,
+    AUTOAJUDA,
+    BIOGRAFIA,
+    CONTOS,
+    CRITICA_LITERARIA,
+    CRONICA,
+    DIDATICO,
+    DIREITO,
+    FANTASIA,
+    FICCAO,
+    FILOSOFIA,
+    INFANTIL,
+    INFANTO_JUVENIL,
+    HQ,
+    JORNALISMO,
+    LINGUISTICA,
+    LITERATURA_BRASILEIRA,
+    LITERATURA_ESTRANGEIRA,
+    MEDICINA,
+    MODA,
+    QUADRINHOS,
+    RELIGIAO,
+    ROMANCE,
+    SOCIOLOGIA,
+    TERROR
+}
